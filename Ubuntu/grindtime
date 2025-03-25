@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Open VSCODE
+code
+
+# Open Brave: Trello + GitHub + AWS + My blog + Youtube: search Lofi
+brave https://www.trello.com https://www.github.com https://console.aws.amazon.com/ https://nvo.one https://www.youtube.com &
+
