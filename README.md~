@@ -1,9 +1,26 @@
-# nhat-insane-hotkey
+# insane-command-for-linux
 
-Step 1: create a custom script
+# Usage:
+Simplify my daily redundant prompts. Feel free to use, modify and add more content
 
-Step 2: Create a custom command
+# Install:
+1. Clone repo
+```bash
+git clone https://github.com/nhatvo1502/insane-command-for-linux.gi
+```
 
-Step 3: Assign hotkey
+2. Copy Commands to Local Linux machine
+```bash
+cd ./insane-command-for-linux/Ubuntu
+sudo cp <command-name> /usr/local/bin/
+```
 
-test5
+# List of command name:
+**grindtime**
+open vscode + web browser
+
+**quickshutdown**
+shutdown computer immediately
+
+**gitpush $message**
+combine git add, git commit and git push into 1 command, inject $message into git commit

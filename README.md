@@ -16,11 +16,14 @@ sudo cp <command-name> /usr/local/bin/
 ```
 
 # List of command name:
-**grindtime**
+1. **grindtime**
+
 open vscode + web browser
 
-**quickshutdown**
+2. **quickshutdown**
+
 shutdown computer immediately
 
-**gitpush $message**
+3. **gitpush $message**
+
 combine git add, git commit and git push into 1 command, inject $message into git commit
